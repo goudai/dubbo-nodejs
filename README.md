@@ -1,4 +1,3 @@
-# nodejs 包装直接调用dubbo exported service
 
 ## Usage
 
