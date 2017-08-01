@@ -1,7 +1,13 @@
 # nodejs 包装直接调用dubbo exported service
 
-## 用法
-### co
+## Usage
+
+### server dubbo restful protcol plus
+
+#### https://github.com/goudai/dubbo-restful
+
+### client
+#### co
 ```js
 
 let co = require('co');
@@ -27,7 +33,7 @@ co(function *() {
 
 ```
 
-async/await
+#### async/await
 
 ```js
 "use strict"
